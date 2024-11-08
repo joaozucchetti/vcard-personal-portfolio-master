@@ -370,7 +370,7 @@ main {
 
 .info_more-btn::before {
   content: "";
-  position: absolute;
+  position: absolute;git position-anchor: ;
   inset: 1px;
   border-radius: inherit;
   background: var(--bg-gradient-jet);
