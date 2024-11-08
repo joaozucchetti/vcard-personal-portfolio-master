@@ -1,0 +1,229 @@
+vCard - Portfólio Pessoal
+
+# barra lateral
+
+alt = Richard hanrick
+Richard hanrick
+Desenvolvedor Web
+
+Mostrar Contatos
+
+Email
+richard@example.com
+
+Telefone
++1 (213) 352-2795
+
+Aniversário
+23 de junho de 1982
+
+Localização
+Sacramento, Califórnia, EUA
+
+# barra de navegação
+
+Sobre
+Currículo
+Portfólio
+Blog
+Contato
+
+# sobre
+
+Sobre mim
+
+Sou Diretor Criativo e Designer UI/UX de Sydney, Austrália, trabalhando em desenvolvimento web e mídia impressa. Gosto de transformar problemas complexos em designs simples, bonitos e intuitivos.
+
+Meu trabalho é construir seu site para que seja funcional e fácil de usar, mas ao mesmo tempo atraente. Além disso, adiciono um toque pessoal ao seu produto e garanto que seja chamativo e fácil de usar. Meu objetivo é transmitir sua mensagem e identidade da maneira mais criativa possível. Criei designs de sites para muitas empresas de marcas famosas.
+
+## serviço
+
+O que eu faço
+
+alt = ícone de design
+Design de Web
+O design mais moderno e de alta qualidade feito em nível profissional.
+
+alt = ícone de desenvolvimento web
+Desenvolvimento Web
+Desenvolvimento de sites de alta qualidade em nível profissional.
+
+alt = ícone de aplicativo móvel
+Aplicativos móveis
+Desenvolvimento profissional de aplicativos para iOS e Android.
+
+alt = ícone de câmera
+Fotografia
+Faço fotos de alta qualidade de qualquer categoria em nível profissional.
+
+## depoimentos
+
+Depoimentos
+
+alt = Daniel lewis
+Daniel lewis
+Richard foi contratado para criar uma identidade corporativa. Ficamos muito satisfeitos com o trabalho realizado. Ela tem muita experiência e se preocupa muito com as necessidades do cliente. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Richard foi contratado para criar uma identidade corporativa. Ficamos muito satisfeitos com o trabalho realizado. Ela tem muita experiência e se preocupa muito com as necessidades do cliente. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Richard foi contratado para criar uma identidade corporativa. Ficamos muito satisfeitos com o trabalho realizado. Ela tem muita experiência e se preocupa muito com as necessidades do cliente. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Richard foi contratado para criar uma identidade corporativa. Ficamos muito satisfeitos com o trabalho realizado. Ela tem muita experiência e se preocupa muito com as necessidades do cliente. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+## clientes
+
+Clientes
+
+alt = logotipo do cliente
+
+# currículo
+
+Currículo
+
+Educação
+
+Universidade escola de artes
+2007 — 2008
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+Academia de arte de Nova York
+2006 — 2007
+Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+
+Escola de arte e design
+2002 — 2004
+Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+
+Experiência
+
+Diretor criativo
+2015 — Presente
+Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+
+Diretor de arte
+2013 — 2015
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+Designer web
+2010 — 2013
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+Minhas habilidades
+
+Design de web
+80%
+Design gráfico
+70%
+Branding
+90%
+WordPress
+50%
+
+# portfólio
+
+Portfólio
+
+Todos
+Design de web
+Aplicativos
+Desenvolvimento web
+
+Selecionar categoria
+Todos
+Design de web
+Aplicativos
+Desenvolvimento web
+
+alt = finanças
+Finanças
+Desenvolvimento web
+
+alt = orizon
+Orizon
+Desenvolvimento web
+
+alt = fundo
+Fundo
+Design de web
+
+alt = brawlhalla
+Brawlhalla
+Aplicativos
+
+alt = dsm.
+DSM.
+Design de web
+
+alt = metaspark
+MetaSpark
+Design de web
+
+alt = resumo
+Resumo
+Desenvolvimento web
+
+alt = gerenciador de tarefas
+Gerenciador de Tarefas
+Aplicativos
+
+alt = chegada
+Chegada
+Desenvolvimento web
+
+# blog
+
+Blog
+
+alt = Conferências de design em 2022
+Design
+23 de fev, 2022
+Conferências de design em 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Melhores fontes para todo designer
+Design
+23 de fev, 2022
+Melhores fontes para todo designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Digest de design #80
+Design
+23 de fev, 2022
+Digest de design #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = Interações de UI da semana
+Design
+23 de fev, 2022
+Interações de UI da semana
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = A arte esquecida do espaçamento
+Design
+23 de fev, 2022
+A Arte Esquecida do Espaçamento
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Digest de design #79
+Design
+23 de fev, 2022
+Digest de design #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+# contato
+
+Contato
+
+Formulário de Contato
+
+Nome completo
+Endereço de email
+Sua Mensagem
+
+Enviar Mensagem
