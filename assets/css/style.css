@@ -356,17 +356,16 @@ main {
 
 .info_more-btn {
   position: absolute;
-  top: 30px;
-  right: 35px;
+  top: -15px;
+  right: -15px;
   border-radius: 0 15px;
-  font-size: 343px;
+  font-size: 13px;
   color: var(--orange-yellow-crayola);
   background: var(--border-gradient-onyx);
-  padding: 100px;
+  padding: 10px;
   box-shadow: var(--shadow-2);
   transition: var(--transition-1);
-  z-index: 3;
-  size: 6ch;
+  z-index: 1;
 }
 
 .info_more-btn::before {
